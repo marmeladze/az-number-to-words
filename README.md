@@ -32,7 +32,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/az_number_to_words.
+Bug reports and pull requests are welcome on GitHub at https://github.com/marmeladze/az_number_to_words.
 
 ## License
 
